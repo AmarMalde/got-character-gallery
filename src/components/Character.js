@@ -1,5 +1,4 @@
 import React from 'react';
-import fictionalFolks from "../data/characterData.json"
 
 const Character = (props) => {
     return(
